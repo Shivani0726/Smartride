@@ -1,0 +1,6 @@
+{
+  "name": "SmartRide – Smart Vehicle Marketplace",
+  "description": "India's premier marketplace for smart and electric vehicles with real-time search, filters, comparisons, and intelligent vehicle advisory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
